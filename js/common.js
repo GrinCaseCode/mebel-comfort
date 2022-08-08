@@ -50,7 +50,7 @@ $(".sandwich_catalog").click(function() {
 		dots: false,
 		infinite: true,
 		autoplay: true,
-		autoplaySpeed: 2000,
+		autoplaySpeed: 3000,
 		touchThreshold: 1000,
 		slidesToShow: 1,
 		slidesToScroll: 1,
